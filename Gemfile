@@ -8,6 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'devise'
+gem 'bootstrap'
 gem 'omniauth-facebook'
 gem 'rails_12factor', group: :production
 gem 'rails', '~> 5.1.4'
